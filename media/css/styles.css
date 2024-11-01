@@ -1,0 +1,25 @@
+#so-tabs li {
+  cursor: pointer;
+  float:left;
+  padding-right:20px;
+}
+#so-tabs li.last {
+  padding-right:0;
+}
+
+#so-tabs li a {
+  font-size:14px;
+}
+.install-menu {
+  float:left;
+}
+.install-menu li {
+  float:left;
+  padding-right:20px;
+}
+.install-menu li.last {
+  padding-right:0;
+}
+.selected {
+  font-weight:bold;
+}

@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SolidOpinion Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-01 12:39+0200\n"
+"PO-Revision-Date: 2014-06-01 12:41+0200\n"
+"Last-Translator: Alexey <alex.b@dos.com.ua>\n"
+"Language-Team: SolidOpinion Comments <solidopinion@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: d:\\OpenServer\\domains\\sowidget.loc\\wp-content"
+"\\plugins\\solidopinion-comments\n"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/common.php:44
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/so_widget.class.php:124
+msgid "Community"
+msgstr "Сообщество"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/common.php:51
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/common.php:54
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/so_widget.class.php:6
+msgid "SolidOpinion Community"
+msgstr "Сообщество SolidOpinion"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/common.php:57
+#, fuzzy
+msgid "SolidOpinion Community Widget"
+msgstr "Сообщество SolidOpinion"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:29
+msgid "Settings Admin"
+msgstr "Настройки"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:30
+msgid "SolidOpinion Comments"
+msgstr "Комментарии SolidOpinion"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:85
+msgid "SolidOpinion Comments Settings"
+msgstr "Настройки комментариев SolidOpinion"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:126
+msgid "Integration shortname"
+msgstr "Короткое имя"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/so_widget.class.php:13
+msgid "People"
+msgstr "Пользователи"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/so_widget.class.php:14
+msgid "Recent"
+msgstr "Новые"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/so_widget.class.php:15
+msgid "Popular"
+msgstr "Популярные"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/so_widget.class.php:45
+msgid "Default tab"
+msgstr "Вкладка по умолчанию"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/so_widget.class.php:55
+msgid "Number of items"
+msgstr "Количество записей"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/so_widget.class.php:58
+msgid "Show tabs"
+msgstr "Показывать вкладки"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/solidopinion.php:26
+#, php-format
+msgid ""
+"Please %sconfigure%s plugin to enable SolidOpinion Comments on your site."
+msgstr "Для отображения комментариев SolidOpinion нужно %sнастроить%s плагин."
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/solidopinion.php:40
+msgid "Settings"
+msgstr "Настройки"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:119
+msgid "Great!"
+msgstr "Отлично!"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:119
+msgid "Our support team will contact you ASAP via email used for SolidOpinion registration to make an import! Alternatively you can drop us a line on help@solidopinion.com."
+msgstr "Служба поддержки SolidOpinion свяжется с Вами по email, указанному по регистрации. Вы можете написать нам на support@solidopinion.com."
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:120
+msgid "We're currently working on your comments export..."
+msgstr "Идет экспорт комментариев..."
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:162
+msgid "Export successfully done!"
+msgstr "Экспорт завершен!"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:162
+msgid "Import comments to your site will be completed during 48 hours. You'll get notification to email. You can also contact us via support@solidopinion.com. Thank you!"
+msgstr "Импорт комментариев будет выполнен в течение 48 часов. Вы получите уведомление на email. Вы можете написать нам на support@solidopinion.com. Спасибо!"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:165
+msgid "Oops! Something went wrong."
+msgstr "Ой-ой! Возникла непредвиденная ситуация."
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:165
+msgid "Yo make your comments import completed please contact us via support@solidopinion.com. Thank you!"
+msgstr "Чтобы завершить импорт комментариев, Вы можете связаться с нами по электронной почте support@solidopinion.com. Спасибо!"
+
+#: d:\OpenServer\domains\sowidget.loc\wp-content\plugins\solidopinion-comments/lib/settings_page.class.php:165
+msgid "Would you like to import your existing comments to SolidOpinion?"
+msgstr "Импортировать комментарии сайта в SolidOpinion?"
+
+
+
+#~ msgid ""
+#~ "SolidOpinion Short Name is not set. Please %sconfigure%s SolidOpinion "
+#~ "Comments plugin."
+#~ msgstr ""
+#~ "Короткое имя не установлено. Пожалуйста, %sнастройте%s плагин "
+#~ "SolidOpinion Comments"
+
+#~ msgid "Install"
+#~ msgstr "Установить"
+
+#~ msgid "Moderation"
+#~ msgstr "Модерация"
+
+#~ msgid "I have already created the integration"
+#~ msgstr "У меня уже существует аккаунт"
+
+#~ msgid "I want to create a new one"
+#~ msgstr "Я хочу создать новый сайт"
+
+#~ msgid "Change"
+#~ msgstr "Изменить"
+
+#~ msgid "My Settings"
+#~ msgstr "Мои настройки"
+
+#~ msgid "Short Name"
+#~ msgstr "Короткое имя сайта"
+
+#~ msgid "Enter your settings below:"
+#~ msgstr "Введите ниже Ваши настройки:"
+
+#~ msgid "Base Settings"
+#~ msgstr "Базовые настройки"
+
+#~ msgid "Site Management"
+#~ msgstr "Управление сайтом"
+
+#~ msgid "Implement SolidOpinion comments features"
+#~ msgstr "Реализует управление SolidOpinion комментариями"
+
+
